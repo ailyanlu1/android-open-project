@@ -1638,6 +1638,12 @@ Android的动态车速表和量规。 惊人，强大，多形 :zap:
 效果圖:   
 ![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
 
+1. MaterialPlayPauseDrawble  
+Material Design 的播放/暂停图标动画，可作为 `Drawable`、`ImageView` 或 `ImageButton` 使用  
+項目地址: https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble   
+效果图:   
+![Renderings](https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble/raw/master/preview/sample.gif)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
@@ -1680,6 +1686,10 @@ android 快速开发框架
 作者认为使用AutoParcel的好处是，可以简化构造函数，方便IDE代码自动完成，方便测试，前向兼容，生成不可变的对象。      
 文档介绍：https://github.com/frankiesardo/auto-parcel
 
+1. Dilutions  
+通过注解生成协议映射执行跨模块的界面跳转和方法调用，解耦的协议框架  
+项目地址：https://github.com/HomHomLin/Dilutions 
+文档介绍：https://github.com/HomHomLin/Dilutions  
 
 
 #### 二、图片缓存
